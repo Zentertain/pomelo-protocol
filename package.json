@@ -1,7 +1,6 @@
 {
-  "name": "pomelo-protocol",
+  "name": "@zentertain/pomelo-protocol",
   "version": "0.1.6",
-  "private": false,
   "dependencies": {},
   "devDependencies": {
     "should": ">=0.0.1",
